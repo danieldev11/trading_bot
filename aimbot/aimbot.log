@@ -1,0 +1,5 @@
+2025-06-13 01:24:26,068 - aimbot - INFO - Initializing Sentiment Analyzer with vader
+2025-06-13 01:24:26,074 - aimbot - INFO - Initializing Signal Generator with rule_based strategy
+2025-06-13 01:24:26,074 - aimbot - INFO - Initializing Trade Executor with paper broker
+2025-06-13 01:24:26,074 - aimbot - INFO - Using paper trading mode (no actual broker connection)
+2025-06-13 01:24:26,074 - aimbot - INFO - AimBot system initialized
